@@ -14,6 +14,8 @@ import Signup from './pages/Signup';
 
 import Navbar from './components/Navbar';
 
+
+
 const httpLink = createHttpLink({
   uri: '/graphql',
 });
